@@ -1,4 +1,4 @@
-# For Susriti, with love ♡
+# For  love ♡
 
 A responsive, dreamy-pink birthday surprise website built with React, Vite, Tailwind CSS, Framer Motion, and Lucide icons.
 
